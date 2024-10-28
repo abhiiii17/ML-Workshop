@@ -1,6 +1,6 @@
 # ML-Workshop
 **COVID Detector**
-COVID detector project using a machine learning model:
+ project using a machine learning model:
 
 The project aims to create a model to detect COVID-19 using symptoms and medical data.
 We will collect data from hospitals and health organizations.
